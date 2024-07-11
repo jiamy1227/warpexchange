@@ -9,8 +9,8 @@ A simple, super fast, 7x24 exchange.
 
 ### Screenshot
 
-![Screenshot](https://github.com/michaelliao/warpexchange/blob/master/screenshot.png?raw=true)
+![Screenshot](https://github.com/michaelliao/warpexchange/blob/main/screenshot.png?raw=true)
 
 ### Tutorial
 
-[从零开始搭建一个7x24小时运行的证券交易所](https://www.liaoxuefeng.com/wiki/1252599548343744/1266263401691296)
+[从零开始搭建一个7x24小时运行的证券交易所](https://liaoxuefeng.com/books/java/springcloud/index.html)
